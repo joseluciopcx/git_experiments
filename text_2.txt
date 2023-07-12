@@ -1,1 +1,5 @@
 This is a second text file.
+
+This line was added for stash it.
+This is the third line.
+This is another line of text.
